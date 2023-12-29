@@ -41,12 +41,15 @@ Greetings! I'm Ann, a dedicated SEO Specialist & writer hailing from the vibrant
 - **SEO Articles:** Crafting articles that not only inform but also rank well on search engines.
 - **Copywriting:** Compelling copy for websites, ads, and promotional materials.
 
-## Portfolio Highlights
+## Portfolio Highlights (Content Writing)
 
-### [Project Name 1]
-![Project Image 1](URL_TO_IMAGE_1)
+### <img src="https://d22kyi72gc3100.cloudfront.net/sites/files/fairebelle/logo/fairebelle_logo.png" alt="Project Logo" width="400"/>
 
-Description of the project, your role, and the results achieved.
+#### <span style="color: orange;">Qipao Vs. Cheongsam</span>
+
+I strategically optimized the article 'Qipao Vs. Cheongsam' to target the valuable keyword 'qipao vs cheongsam,' which boasts a monthly search volume of approximately 320 searches. This meticulous approach not only secured a featured snippet but also significantly enhanced the article's visibility, contributing to improved brand awareness for my client.
+
+<img src="https://d22kyi72gc3100.cloudfront.net/sites/files/fairebelle/logo/fairebelle_logo.png" alt="Project Logo" width="600"/>
 
 ### [Project Name 2]
 ![Project Image 2](URL_TO_IMAGE_2)
