@@ -49,7 +49,7 @@ Greetings! I'm Ann, a dedicated SEO Specialist & writer hailing from the vibrant
 
 I strategically optimized the article 'Qipao Vs. Cheongsam' to target the valuable keyword 'qipao vs cheongsam,' which boasts a monthly search volume of approximately 320 searches. This meticulous approach not only secured a featured snippet but also significantly enhanced the article's visibility, contributing to improved brand awareness for my client.
 
-<img src="https://d22kyi72gc3100.cloudfront.net/sites/files/fairebelle/logo/fairebelle_logo.png" alt="Project Logo" width="600"/>
+<img src="(https://jullane.com/wp-content/uploads/2023/12/Screenshot-2023-12-29-at-7.04.04-PM.png)" width="600"/>
 
 ### [Project Name 2]
 ![Project Image 2](URL_TO_IMAGE_2)
